@@ -1,0 +1,10 @@
+{
+  "name": "pi-compress-image",
+  "version": "0.1.0",
+  "description": "Pi extension: compress images to <=100KB and add an ask_about_image tool",
+  "type": "module",
+  "keywords": ["pi-package"],
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
